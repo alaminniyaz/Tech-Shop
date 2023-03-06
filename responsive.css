@@ -79,7 +79,7 @@
 		top: 100%;
 		right: -200%;
 		width: 200px;
-		height: 20vh;
+		height: 25vh;
 		background: var(--main-color);
 		display: flex;
 		align-items: center;
@@ -114,12 +114,15 @@
 		padding: 100px 18%;
 	}
 	.home{
-		height: auto;
+		height: 100vh;
 	}
 	.home-img img{
 		width: 300px;
 		height: auto;
 		max-width: 100%;
+	}
+	.home-text {
+		margin-left: 10%;
 	}
 	:root{
 		--h1-font: 2.1rem;
