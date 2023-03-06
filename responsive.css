@@ -114,7 +114,7 @@
 		padding: 100px 18%;
 	}
 	.home{
-		height: auto;
+		height: 100vh;
 	}
 	.home-img img{
 		width: 300px;
